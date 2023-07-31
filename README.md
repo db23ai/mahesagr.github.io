@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Python, Perl & Shell Script**
 
-- 💬 Ask me about **Open Source Databases, ODA & ZDM**
+- 💬 Ask me about **Databases, ODA & ZDM**
 
 - 📫 How to reach me **maheshgagr@gmail.com**
 
