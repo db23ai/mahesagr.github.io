@@ -39,7 +39,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesagr&" alt="mahesagr" /></p>
 
 
-Mahesh Agrawal (He/Him)
+Mahesh Agrawal 
+
 Product Development DBA at Oracle | Oracle Multicloud | OCI | ODA | ZDM | RAC & DataGuard | GoldenGate | ExaDB-D, C@C & Exadata | Member of Oracle RACPack Cloud Innovation & Solution Engineering
 
 
