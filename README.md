@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Databases, ODA & ZDM**
 
-- 📫 How to reach me **maheshgagr@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mahesagr/](https://www.linkedin.com/in/mahesagr/)
 
 - ⚡ Fun fact **I think I am funny**
