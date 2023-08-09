@@ -39,7 +39,7 @@
 
 Mahesh Agrawal 
 
-Product Development DBA at Oracle | Oracle Multicloud | OCI | ODA | ZDM | RAC & DataGuard | GoldenGate | ExaDB-D, C@C & Exadata | Member of Oracle RACPack Cloud Innovation & Solution Engineering
+Database Engineer at Oracle • Oracle Multicloud • OCI • ODA • ZDM • RAC & DataGuard • GoldenGate • ExaDB-D, C@C & Exadata • Kubernates • Docker • MySQL • PostgreSQL • MariaDB • Cassandara
 
 
 15+ years of experience as a Senior Database Engineer. Through the entire career, I have worked as a DBA (Research and Development) with round-the-clock support and considerable knowledge in a variety of distributed database systems, including clusters for Oracle, Teradata, MySQL, MariaDB, and Cassandra. Practical experience with Oracle to MariaDB databases migrations. Contributed in ODA X9-2 HA Performance Tuning Whitepaper.
