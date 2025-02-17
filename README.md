@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Databases, ODA & ZDM**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/db23ai/](https://www.linkedin.com/in/23ai/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/23ai/](https://www.linkedin.com/in/23ai/)
 
 - ⚡ Fun fact **I think I am funny**
 
